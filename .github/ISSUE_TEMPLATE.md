@@ -1,4 +1,4 @@
-Name der Quest/Item/Object/etc
+**Name der Quest/Item/Object/etc**
 
 Was Funktoniert nicht?
 
