@@ -1,7 +1,7 @@
 **Name der Quest/Item/Object/etc**
 
-Was Funktoniert nicht?
+**Was Funktoniert nicht?**
 
-Wie sollte es Funktonieren
+**Wie sollte es Funktonieren**
 
-Screenshot/Video
+**Screenshot/Video**
